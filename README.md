@@ -185,7 +185,7 @@ This project provides a complete overview of the sales performance of an e-comme
 ## 🔗 Useful Links
 
 * 📁 **Dataset:** *(Add your dataset URL here)*
-* 📊 **Power BI Dashboard:** *(Add link to PBIX or published dashboard)*
+* 📊 **Power BI Dashboard:** *(project.pbix)*
 * 📝 **SQL Queries Folder:** ./sql_queries
 * 📙 **Jupyter Notebooks:** ./notebooks
 
