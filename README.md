@@ -52,8 +52,8 @@ The **E-Commerce Sales Analysis** project focuses on understanding business perf
 
 The dataset contains information such as:
 
-Order_ID
-Customer_ID
+Order_Id
+Customer_Id
 Age
 Gender
 City
@@ -64,16 +64,16 @@ Discount_Amount
 Total_Amount
 Payment_Method
 Device_Type
-Session_Duration_Minutes
-Is_Returning_Customer
-Delivery_Time_Days
+Session_Duration
+Returning
+Delivery_Time
 Customer_Rating
 Year
 Month
 Day
-Total_Match
 Cost
 Profit
+
 ---
 
 ## 🛠️ Tools & Technologies Used
