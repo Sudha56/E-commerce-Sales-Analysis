@@ -184,10 +184,11 @@ This project provides a complete overview of the sales performance of an e-comme
 
 ## 🔗 Useful Links
 
+* 🗂️ **Raw Dataset Logo:**
 * 📁 **Cleaned Dataset:** *(https://github.com/Sudha56/E-commerce-Sales-Analysis/blob/main/Cleanedsales.csv)*
 * 📊 **Power BI Dashboard:** *(https://github.com/Sudha56/E-commerce-Sales-Analysis/blob/main/project.pbix)*
-* 📝 **SQL Queries Folder:** ./sql_queries
-* 📙 **Jupyter Notebooks:** ./notebooks
+* 📝 **SQL Queries Folder:** (https://github.com/Sudha56/E-commerce-Sales-Analysis/blob/main/project.pbix)
+* 📙 **Python Analysis Scripts:** ./notebooks
 
 ---
 
