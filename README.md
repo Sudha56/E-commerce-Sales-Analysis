@@ -244,7 +244,8 @@ This project is licensed under the MIT License.
 ### 🔹 Power BI Dashboard Preview
 
 ```
-![Dashboard Preview](screenshots/dashboard1.png)
+![Dashboard](https://raw.githubusercontent.com/Sudha56/E-commerce-Sales-Analysis/main/screenshots/dashboard.png)
+
 ```
 
 ### 🔹 Python EDA Output
