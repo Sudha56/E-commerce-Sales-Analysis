@@ -231,7 +231,10 @@ This project is licensed under the MIT License.
 
 
 ```
-(https://github.com/Sudha56/E-commerce-Sales-Analysis/blob/main/E-commerce%20logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sudha56/E-commerce-Sales-Analysis/main/E-commerce%20logo.png" alt="Project Logo" width="200">
+</p>
+
 ```
 
 ---
