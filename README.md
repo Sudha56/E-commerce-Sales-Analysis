@@ -228,6 +228,7 @@ This project is licensed under the MIT License.
 
 ## 🖼️ Project Logo
 
+![Project Logo](https://raw.githubusercontent.com/Sudha56/E-commerce-Sales-Analysis/main/E-commerce%20logo.png)
 
 
 ```
