@@ -103,7 +103,7 @@ Example Python code for loading data:
 ```
 import pandas as pd
 
-df = pd.read_csv('ecommerce_sales.csv')
+sales=pd.read_csv("C:\\Users\\gsudh\\OneDrive\\Documents\\Excel\\ecommerce_customer_behavior_dataset.csv")
 ```
 
 ---
