@@ -244,14 +244,15 @@ This project is licensed under the MIT License.
 ### 🛠️ Installation
 
 ```
+## 🛠️ Installation
+
+```bash
 # Clone the repository
-git clone https://github.com/yourusername/E-Commerce-Sales-Analysis.git
+git clone https://github.com/Sudha56/E-commerce-Sales-Analysis.git
 
 # Navigate into the directory
-cd E-Commerce-Sales-Analysis
+cd E-commerce-Sales-Analysis
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ### ▶️ How to Run the Project
