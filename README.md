@@ -231,7 +231,7 @@ This project is licensed under the MIT License.
 > *(Add your logo image file to the repo and replace the markdown below with your file name)*
 
 ```
-![Project Logo](project_logo.png)
+(https://github.com/Sudha56/E-commerce-Sales-Analysis/blob/main/E-commerce%20logo.png)
 ```
 
 ---
