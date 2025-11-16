@@ -52,18 +52,28 @@ The **E-Commerce Sales Analysis** project focuses on understanding business perf
 
 The dataset contains information such as:
 
-* **Order ID**
-* **Product Category**
-* **Quantity**
-* **Unit Price**
-* **Discount Amount**
-* **Profit**
-* **Payment Method**
-* **City / Region**
-* **Date of Purchase**
-
-> *Dataset may vary; adjust the column descriptions based on your actual dataset.*
-
+Order_ID
+Customer_ID
+Age
+Gender
+City
+Product_Category
+Unit_Price
+Quantity
+Discount_Amount
+Total_Amount
+Payment_Method
+Device_Type
+Session_Duration_Minutes
+Is_Returning_Customer
+Delivery_Time_Days
+Customer_Rating
+Year
+Month
+Day
+Total_Match
+Cost
+Profit
 ---
 
 ## 🛠️ Tools & Technologies Used
